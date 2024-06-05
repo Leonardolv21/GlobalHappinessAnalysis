@@ -1,0 +1,2 @@
+# GlobalHappinessAnalysis
+Exam Algoritmic
