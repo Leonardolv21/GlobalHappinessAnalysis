@@ -1,0 +1,2 @@
+el algoritmo que nos toco fue el K-Nearest Neighbors (k vecinos mas cercanos)
+y aplicarlo al dataset que elegimos.
