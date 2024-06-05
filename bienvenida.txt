@@ -1,0 +1,2 @@
+Bienvenido al Proyecto K-Nearest Neighbors sobre la Felicidad Global
+¡Hola y bienvenido a nuestro repositorio! Aquí estamos desarrollando un proyecto utilizando el algoritmo K-Nearest Neighbors (KNN) para explorar la felicidad global. Nuestro dataset contiene datos de encuestas y varios indicadores socioeconómicos, permitiéndonos investigar las correlaciones entre diferentes factores y la felicidad de los países.
